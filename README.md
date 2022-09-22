@@ -8,7 +8,7 @@ a full-stack social network website implemented with Nodejs (backend) and Reactj
   * [Dependencies](#dependencies)
   * [Deployment](#deployment)
   * [Author](#author)
-  * [Sample run](#sample run)
+  * [Samplerun](#sample run)
   
 ## Features
 1. write blog.
