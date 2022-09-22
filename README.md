@@ -8,7 +8,7 @@ a full-stack social network website implemented with Nodejs (backend) and Reactj
   * [Dependencies](#dependencies)
   * [Deployment](#deployment)
   * [Author](#author)
-  * [Sample run](#run)
+  * [Sample run](#Sample)
   
 ## Features
 1. write blog.
@@ -49,5 +49,5 @@ a full-stack social network website implemented with Nodejs (backend) and Reactj
 ## Author
 [Mohamed Farid](https://github.com/MohamedFarid612)
 
-## run
+## Sample
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/84376570/191742674-5d4cfca2-f1ff-45e0-9389-f83622d58d00.gif)
