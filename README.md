@@ -41,8 +41,10 @@ a full-stack social network website implemented with Nodejs (backend) and Reactj
 
 ## Deployment
 - Open terminal inside the project directory and intsall the dependencies by typing the following:
-> npm install -in both client and server directories
-> mongod - to connect to your local database
+-in both client and server directories
+> npm install 
+ - to connect to your local database
+> mongod 
 - Write your own .env file to store secured data
 - You can use free online services to deploy your web application like [Heruko](https://heroku.com/)
 
